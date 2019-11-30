@@ -1,4 +1,7 @@
 zhaoxiaoying fighting
 hiwabueiweour
-i want to xiamen univ
-ib 
+i want to xiamen university
+git config -l
+git config --global user.name "zhaoxiaoying"
+git config --global user.email "3128623232@qq.com"
+
